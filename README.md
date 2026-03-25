@@ -28,7 +28,7 @@ Dream11 a React app built to **practice props, state, and events**. Users can se
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/dream11-react-practice.git
+https://github.com/tanvir-22/dream11.git
 ```
 2. Install dependencies:
 
