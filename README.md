@@ -1,16 +1,42 @@
-# React + Vite
+# 🎉Dream11 Team (React Practice)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Dream11 a React app built to **practice props, state, and events**. Users can select players based on available coins and remove them using a delete icon, which restores the coins. This project is **fully frontend-based** , for learning with React fundamentals.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
 
-## React Compiler
+- **Select players** for your team based on available coins.  
+- **Delete players** to restore coins back to the total.  
+- Built entirely in **React** using **functional components and hooks**.  
+- Practicing **props, state management, event handling, and conditional rendering**.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## Tech Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React** (Functional Components, Hooks)  
+- **JavaScript / JSX**  
+- **TailwindCSS + DaisyUI** for styling
+- React-Toastify to show notification/alerts
+- No backend or database, all logic is handled in the frontend.
+
+---
+
+## How to Use
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/dream11-react-practice.git
+```
+2. Install dependencies:
+
+```bash
+npm install
+```
+3. Start the app::
+
+```bash
+npm run dev
+```
