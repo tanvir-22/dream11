@@ -1,0 +1,133 @@
+[
+  {
+    "playername": "Virat Kohli",
+    "playercountry": "India",
+    "playertype": "Batsman",
+    "rating": 9.8,
+    "battingstyle": "Right-hand bat",
+    "bowlingstyle": "Right-arm medium",
+    "price": 15000,
+    "playerimage": "https://i.ibb.co.com/yc7Ss62x/Virat-Final.jpg"
+  },
+  {
+    "playername": "Babar Azam",
+    "playercountry": "Pakistan",
+    "playertype": "Batsman",
+    "rating": 9.5,
+    "battingstyle": "Right-hand bat",
+    "bowlingstyle": "Right-arm offbreak",
+    "price": 14000,
+    "playerimage": "https://i.ibb.co.com/3m48WJBb/babar.jpg"
+  },
+  {
+    "playername": "Ben Stokes",
+    "playercountry": "England",
+    "playertype": "All-rounder",
+    "rating": 9.2,
+    "battingstyle": "Left-hand bat",
+    "bowlingstyle": "Right-arm fast-medium",
+    "price": 13500,
+    "playerimage": "https://i.ibb.co.com/xR1dmxv/ben.jpg"
+  },
+  {
+    "playername": "Kane Williamson",
+    "playercountry": "New Zealand",
+    "playertype": "Batsman",
+    "rating": 9.3,
+    "battingstyle": "Right-hand bat",
+    "bowlingstyle": "Right-arm offbreak",
+    "price": 13000,
+    "playerimage": "https://i.ibb.co.com/5xJHLbpH/kane.jpg"
+  },
+  {
+    "playername": "Rashid Khan",
+    "playercountry": "Afghanistan",
+    "playertype": "Bowler",
+    "rating": 9.6,
+    "battingstyle": "Right-hand bat",
+    "bowlingstyle": "Right-arm legbreak googly",
+    "price": 14500,
+    "playerimage": "https://i.ibb.co.com/KxC5PMhn/rashid.jpg"
+  },
+  {
+    "playername": "Shakib Al Hasan",
+    "playercountry": "Bangladesh",
+    "playertype": "All-rounder",
+    "rating": 9.4,
+    "battingstyle": "Left-hand bat",
+    "bowlingstyle": "Slow left-arm orthodox",
+    "price": 12500,
+    "playerimage": "https://i.ibb.co.com/wN3svjTh/sakib.jpg"
+  },
+  {
+    "playername": "Joe Root",
+    "playercountry": "England",
+    "playertype": "Batsman",
+    "rating": 9.1,
+    "battingstyle": "Right-hand bat",
+    "bowlingstyle": "Right-arm offbreak",
+    "price": 12000,
+    "playerimage": "https://i.ibb.co.com/Q315hwny/root.jpg"
+  },
+  {
+    "playername": "Steve Smith",
+    "playercountry": "Australia",
+    "playertype": "Batsman",
+    "rating": 9.4,
+    "battingstyle": "Right-hand bat",
+    "bowlingstyle": "Right-arm legbreak",
+    "price": 13800,
+    "playerimage": "https://i.ibb.co.com/7d8PXrJh/smith.jpg"
+  },
+  {
+    "playername": "David Warner",
+    "playercountry": "Australia",
+    "playertype": "Batsman",
+    "rating": 9.0,
+    "battingstyle": "Left-hand bat",
+    "bowlingstyle": "Right-arm legbreak",
+    "price": 11500,
+    "playerimage": "https://i.ibb.co.com/Jjv5xt55/warner.jpg"
+  },
+  {
+    "playername": "Jasprit Bumrah",
+    "playercountry": "India",
+    "playertype": "Bowler",
+    "rating": 9.7,
+    "battingstyle": "Right-hand bat",
+    "bowlingstyle": "Right-arm fast",
+    "price": 14200,
+    "playerimage": "https://i.ibb.co.com/ym8dC7fj/bumrah.jpg"
+  },
+  {
+    "playername": "Trent Boult",
+    "playercountry": "New Zealand",
+    "playertype": "Bowler",
+    "rating": 9.3,
+    "battingstyle": "Right-hand bat",
+    "bowlingstyle": "Left-arm fast-medium",
+    "price": 12800,
+    "playerimage": "https://i.ibb.co.com/MDTNvBk3/boult.jpg"
+  },
+  {
+    "playername": "Jos Buttler",
+    "playercountry": "England",
+    "playertype": "Batsman",
+    "rating": 9.2,
+    "battingstyle": "Right-hand bat",
+    "bowlingstyle": "None",
+    "price": 13200,
+    "playerimage": "https://i.ibb.co.com/p6fz8z3B/butler.jpg"
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
